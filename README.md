@@ -12,7 +12,7 @@ Participants will help evolve an existing survey into a more rigorous, externall
 How to get started:
 1. (Optional, ~5–10 min) Take the demo survey: https://forms.gle/QLzVCmtAx9vwCsFM8
 2. Review the survey questions and note anything unclear, biased, or missing
-3. Share suggestions with the maintainers live or via discussion post (https://github.com/juliekang/access-needs-questionnaire/discussions)
+3. Share suggestions via [discussion post](https://github.com/juliekang/access-needs-questionnaire/discussions) or join in on the discourse
 
 Ways to contribute:
 - Improve question clarity and remove ambiguity or leading language
