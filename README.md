@@ -6,6 +6,13 @@ Current version is a [Google Forms survey](https://forms.gle/QLzVCmtAx9vwCsFM8).
 ## Background
 Accesscats, an accessibility-focused group at GitHub, developed an internal survey to better understand how employees actually work, including the assistive technologies, adaptations, and caregiving responsibilities that shape their day-to-day experience. Initial results suggest that accessibility-related tools and strategies are far more widespread than commonly assumed. This project aims to evolve the survey into a more rigorous, externally usable instrument that can capture a broader range of developer experiences across different work environments, with the goal of informing more effective assistive technologies and accessibility practices across the industry.
 
+## Design Principles
+- Prioritize psychological safety and anonymity for respondents
+- Focus on lived experience over labels or diagnoses
+- Keep language inclusive and broadly applicable
+- Capture impact on work, not just presence of need
+- Minimize intrusion while maximizing actionable insight
+
 ## If you'd like to collaborate
 Participants will help evolve an existing survey into a more rigorous, externally usable tool for measuring employee accessibility, assistive technology usage, and caregiving impact. Experience in accessibility, assistive technology, survey design, or developer experience is helpful but not required.
 
