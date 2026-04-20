@@ -30,3 +30,7 @@ Ways to contribute:
 
 ## Special call for researchers
 If you have a background in research, statistics, or survey design (e.g., PhD, academic, or industry research experience), we would especially value your input on question validity, bias reduction, and overall experimental rigor.
+
+---
+This questionnaire is open source under the MIT License.
+You are welcome to use, adapt, and share it. Attribution appreciated but not required.
